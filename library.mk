@@ -24,4 +24,4 @@
 # limitations under the License.
 ################################################################################
 
-COMPONENTS+=MTB_HAL MTB_DEVICE_SUPPORT
+COMPONENTS+=MTB_HAL
